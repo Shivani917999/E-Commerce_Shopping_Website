@@ -30,22 +30,18 @@
 # <h5> Installing</h5> 
        For MySQL Database
 
-SQL script can be found in the project folder.
-SQL script doesn't contain query to create schema, you will need to create one with name jsp-servlet-ecommerce-website.
-For Tomcat Application Server
+          SQL script can be found in the project folder.
+          SQL script doesn't contain query to create schema, you will need to create one with name jsp-servlet-ecommerce-website.
+# <h5> For Tomcat Application Server</h5>
 
-Use Tomcat 8.5.23 or above and compile to generate WAR file.
-Contributing
-If you want to contribute to this project you can email me - trhoangthuan@gmail.com or you can pull request.
-
-Authors
-Truong Hoang Thuan Github
-Built With
-Java - Oracle Java 16 JDK
-MySQL - MySQL Database
-Connector/J - Connecting to MySQL Database Server
-Maven - Dependency Management
-Shoppers - Free Bootstrap 4 HTML5 ecommerece website template - Website Front-end
-License
-This project is licensed under the MIT License - see the LICENSE.md for details.
-
+      Use Tomcat 8.5.23 or above and compile to generate WAR file.
+<h3> Contributing</h3>
+  <p>If you want to contribute to this project you can email me - <a>shivani9179994889@gmail.com</a> or you can pull request.</p>
+  
+<h3> Built With</h3>
+<ul style="list-style-type: square;"> 
+<li>Java - Oracle Java 16 JDK</li>
+<li>MySQL - MySQL Database</li>
+<li>Connector/J - Connecting to MySQL Database Server</li>
+<li>Maven - Dependency Management</li>
+<li>Shoppers - Free Bootstrap 4 HTML5 ecommerece website template - Website and css Front-end</li>
