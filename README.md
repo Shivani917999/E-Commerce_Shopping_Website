@@ -4,13 +4,22 @@
 <p>This project is a simple e-commerce website powered by Java JSP Servlet. Ecommerce is a complex business. It involves many edge cases and a solid system architecture. This project is simply a demo demonstrating basic features which is only the tip of an iceberg. This project might (and certainly does) have bugs, vulnerabilities or some other types of issues. So, contributions are always welcome :)))</p>
 
 # <h5> Features include</h5>
-      1. Login and Registration.
-      2. Search and browse items.
-      3. Add to cart.
-      4. Manage shopping cart.
-      5. Checkout.
-      6. View orders history of sellers/customers.
-      7. Update customer/product information.
+      
+     1.    User Registration and Authentication: Users can create accounts and log in securely.
+     
+     2.    Browse Clothing Inventory: Browse a diverse selection of clothing items categorized by occasion, style, and size.
+     
+     3.    Search:Search for specific clothing items based on keywords or filters.
+     
+     4.    Rent Clothing: Add clothing items to your cart, specify rental duration, and complete the rental process.
+     
+     5.    Order Management:Users can view and manage their rental orders, including viewing rental history and extending rental periods.
+     
+     6.    Admin Panel: Admin users have access to an admin panel to manage clothing inventory, user accounts, and rental orders.
+     
+     7.    Responsive Design:The website is responsive and works seamlessly on various devices.
+           Technologies Usedduct information.
+      
       
 <h4> Screenshots</h4>
 
@@ -35,8 +44,36 @@
 # <h5> For Tomcat Application Server</h5>
 
       Use Tomcat 8.5.23 or above and compile to generate WAR file.
+      
+     <h3> Getting Started</h3>
+<p>To get this Cloth Rental Website project up and running on your local machine, follow these steps:</p>
+
+# <h5>1.Clone this repository:</p>
+
+       git clone https://github.com/V1k45git/clothrental.git
+<p>2.Set up a MySQL database and create the necessary tables. You can use the provided SQL scripts in the database directory to create the schema and initial data.</p>
+
+# <h5> 3. Configure the database connection in the web/WEB-INF/web.xml file:</h5>
+
+             <context-param>
+             <param-name>dbURL</param-name>
+             <param-value>jdbc:mysql://localhost:3306/your-database-name</param-value>
+             </context-param>
+             <context-param>
+                  <param-name>dbUser</param-name>
+                  <param-value>your-username</param-value>
+             </context-param>
+             <context-param>
+                  <param-name>dbPassword</param-name>
+                  <param-value>your-password</param-value>
+             </context-param>
+<p> 4. Deploy the project to a servlet container like Apache Tomcat.</p>
+
+<p> 5. Access the application in your web browser (http://localhost:8080/shoppingwebsite)</p>
+       Usage 
 <h3> Contributing</h3>
-  <p>If you want to contribute to this project you can email me - <a>shivani9179994889@gmail.com</a> or you can pull request.</p>
+
+  <p>If you want to contribute to this project you can email me - <a href="shivani9179994889@gmail.com"></a> or you can pull request.</p>
   
 <h3> Built With</h3>
 <ul style="list-style-type: square;"> 
