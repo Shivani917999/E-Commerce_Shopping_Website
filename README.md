@@ -49,8 +49,8 @@
 <p>To get this Cloth Rental Website project up and running on your local machine, follow these steps:</p>
 
 # <h5>1.Clone this repository:</p>
-
-       git clone https://github.com/V1k45git/clothrental.git
+          https://github.com/Shivani917999/E-Commerce_Shopping_Website.git
+      
 <p>2.Set up a MySQL database and create the necessary tables. You can use the provided SQL scripts in the database directory to create the schema and initial data.</p>
 
 # <h5> 3. Configure the database connection in the web/WEB-INF/web.xml file:</h5>
