@@ -1,7 +1,7 @@
 # E-Commerce_Shopping_Website
 
 <h3> About</h3>
-<p>This project is a simple e-commerce website powered by Java JSP Servlet. Ecommerce is a complex business. It involves many edge cases and a solid system architecture. This project is simply a demo demonstrating basic features which is only the tip of an iceberg. This project might (and certainly does) have bugs, vulnerabilities or some other types of issues. So, contributions are always welcome :)))</p>
+<p>Welcome to our E-commerce website project! Our goal is to provide users with a seamless online shopping experience where they can browse, search for, and purchase a wide range of products from the comfort of their own homes.</p>
 
 # <h5> Features include</h5>
       
